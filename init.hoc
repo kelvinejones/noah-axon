@@ -1,0 +1,3 @@
+load_file("nrngui.hoc")
+//nrn_load_dll("nrnmech.dll") //Un-comment this out when running on MSWindows. Refer to README for more information
+load_file("1a_afferent_Nicol_and_Walmsley_WholeCollateral_Myelin_withChannels_ver1e_xraxialedit.ses")
